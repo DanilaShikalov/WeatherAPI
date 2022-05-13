@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "openweathermap.url",
+      "type": "java.lang.String",
+      "description": "Description for openweathermap.url."
+  }
+] }
