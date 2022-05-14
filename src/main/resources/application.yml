@@ -1,5 +1,0 @@
-server:
-  port: 8081
-openweathermap:
-  path: https://api.openweathermap.org/data/2.5/weather
-  api: 2c2425554f8d406a08a9f26d5a48e63f
